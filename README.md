@@ -14,5 +14,5 @@ chmod +x ffm.sh
 运行  
 
 ```shell
-sudo ./ffm
+sudo ./ffm.sh
 ```
